@@ -1,4 +1,4 @@
-# 21_days_omghadia
+# 21_Days_omghadia
 
 
 Beginner I’ll be learning data analysis
